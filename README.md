@@ -3,12 +3,20 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisgudul&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
   <h1>
     <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="50"/>
     Barış Güdül
     <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="50"/>
   </h1>
-  <h3>AI & Data Science Engineer</h3>
+  <h3>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    AI & Data Science Engineer
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </h3>
 </div>
 
 <div align="center">
@@ -130,10 +138,6 @@ Computer Engineering student at Süleyman Demirel University with a passion for 
 - 📊 Data Science & Analytics
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisgudul&theme=radical" alt="GitHub Streak"/>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
