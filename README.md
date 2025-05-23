@@ -1,113 +1,117 @@
 <div align="center">
-  
-  ![Header Wave](https://github.com/barisgudul/barisgudul/blob/main/assets/wave.svg)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Barış%20Güdül&fontSize=80&fontAlignY=35&animation=twinkling&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=55&descAlign=50"/>
 
-  # Barış Güdül
-  #### 𝐀𝐈 & 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 | 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 | 𝐌𝐨𝐛𝐢𝐥𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭
-  
-  [![Stars](https://img.shields.io/github/stars/barisgudul?color=0d1117&label=GitHub%20Stars&logo=github&style=for-the-badge)](https://github.com/barisgudul)
-  [![LinkedIn](https://img.shields.io/badge/-Barış_Güdül-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetbarisgudul)
-  [![Email](https://img.shields.io/badge/-mehmetbarisgudul@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetbarisgudul@gmail.com)
-  [![CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./Mehmet_Baris_Gudul.pdf)
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetbarisgudul)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barisgudul)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetbarisgudul@gmail.com)
+  [![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./Mehmet_Baris_Gudul.pdf)
 </div>
 
----
+## 🎯 Professional Profile
 
-## 🧬 Professional DNA
+Computer Engineering student at Süleyman Demirel University with a passion for AI and data science. Specializing in machine learning, deep learning, and mobile app development. Proven track record in building production-ready AI solutions and data-driven applications.
 
-**AI & Data Science Specialist** with expertise in machine learning, deep learning, and mobile app development. Proven track record in building production-ready AI solutions and data-driven applications. Currently pursuing Computer Engineering at Süleyman Demirel University while actively contributing to innovative projects.
+### 🏆 Key Achievements
+- 🚀 Developed AI-powered therapy app with 1000+ beta users
+- 🎯 Achieved 92% accuracy in housing price prediction model
+- 💡 Created real-time IoT monitoring system with dual sensor integration
+- 📱 Expert in React Native mobile development with Expo
 
-**Key Differentiators:**
-- 🏭 Advanced ML/DL expertise with TensorFlow/Keras & Scikit-learn
-- 🧠 Production-grade AI applications with 1000+ users
-- ⚡ Full-stack mobile development with React Native
-- 🔐 Comprehensive data analysis & visualization skills
+## 🛠️ Technical Expertise
 
-**Current Focus:**  
-`deep-learning` `computer-vision` `mobile-ai` `data-science`
+### 🤖 AI & Machine Learning
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</div>
 
----
+### 📱 Mobile & Web Development
+<div align="center">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
 
-## 💼 Technical Arsenal
+### 🔧 Tools & Platforms
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</div>
 
-### 𝐀𝐈/𝐌𝐋 𝐂𝐨𝐫𝐞
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+## 🚀 Featured Projects
 
-### 𝐌𝐨𝐛𝐢𝐥𝐞 & 𝐖𝐞𝐛
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 1. AI Therapy Assistant
+<div align="center">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPT4-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</div>
 
-### 𝐃𝐚𝐭𝐚 & 𝐃𝐞𝐯𝐎𝐩𝐬
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+> **AI-Powered Mental Health Platform**
+> - Real-time voice and video therapy sessions
+> - GPT-4o powered empathetic responses
+> - HIPAA-compliant architecture
+> - 1000+ beta users with 92% retention
 
----
+[View Project →](https://github.com/barisgudul/therapy.)
 
-## 🏆 Signature Projects
+### 2. ANN-RealEstate-Regression
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</div>
 
-### therapy. ([GitHub](https://github.com/barisgudul/therapy.))
-> **AI-Powered Mental Health Companion**  
-> ◼ GPT-4o API Integration ◼ Real-time Voice/Video Sessions ◼ HIPAA-compliant  
-> `React Native` `Expo` `GCP Speech-to-Text` `Firebase`
+> **Advanced Housing Price Prediction**
+> - 4-layer ANN architecture
+> - MAE: $15,617 | R²: 0.92
+> - Automated feature engineering
+> - Production-ready pipeline
 
-### ANN-RealEstate-Regression ([GitHub](https://github.com/barisgudul/ANN-RealEstate-Regression))
-> **Advanced Housing Price Prediction**  
-> ◼ MAE: $15,617 ◼ R²: 0.92 ◼ 4-layer ANN Architecture  
-> `TensorFlow` `Keras` `Pandas` `Scikit-learn`
+[View Project →](https://github.com/barisgudul/ANN-RealEstate-Regression)
 
-### Arduino IoT Monitor ([GitHub](https://github.com/barisgudul/Ardunio_IOT))
-> **Real-time Sensor Analytics Platform**  
-> ◼ Dual Temperature Sensors ◼ Voltage Monitoring ◼ Interactive Dashboards  
-> `Python` `Arduino` `Plotly` `Pandas`
+### 3. Arduino IoT Monitor
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+</div>
 
----
+> **Real-time Sensor Analytics Platform**
+> - Dual temperature sensor integration
+> - Interactive data visualization
+> - Automated data logging
+> - Real-time voltage monitoring
 
-## 📈 Engineering Pulse
+[View Project →](https://github.com/barisgudul/Ardunio_IOT)
 
-```text
-🌐 Language Distribution
-Python        ████████████████████▎ 78.4%
-TypeScript    █████████▉           34.1%
-SQL           ███▊                12.5%
-Other         █▌                   4.0%
-
-🔥 Weekly Development Rhythm
-Mon: █████▍············ 24%
-Tue: ████████▎········· 35%
-Wed: ██████████▋······· 42%
-Thu: █████████████▏···· 55%
-Fri: ███████████████▌·· 68%
-```
-
----
-
-## 📫 Let's Connect
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/barisgudul">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/mehmetbarisgudul">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:mehmetbarisgudul@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barisgudul&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisgudul&layout=compact&langs_count=8&theme=radical"/>
 </div>
+
+## 🌟 Current Focus
+
+- 🔬 Deep Learning Research
+- 📱 Mobile AI Applications
+- 🤖 Computer Vision Projects
+- 📊 Data Science & Analytics
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/barisgudul/barisgudul/output/snake.svg" alt="snake animation">
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisgudul&theme=radical" alt="GitHub Streak"/>
+</div>
 
-<p align="center">Thanks for visiting! 🌟</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
