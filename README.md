@@ -47,10 +47,6 @@
   <img src="https://streak-stats.demolab.com?user=barisgudul&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/barisgudul/barisgudul/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</p>
-
 </details>
 
 <!-- ====================== NOW / NEXT ====================== -->
