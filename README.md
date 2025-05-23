@@ -33,7 +33,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=barisgudul&repo=AI-Therapy-Assistant&theme=tokyonight&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=barisgudul&repo=ANN-RealEstate-Regression&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barisgudul&repo=Arduino_IOT&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barisgudul&repo=Ardunio_IOT&theme=tokyonight&hide_border=true"/>
 </p>
 
 </details>
