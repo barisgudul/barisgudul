@@ -1,127 +1,68 @@
-# Barış Güdül
+<!--  =============================== HEADER  =============================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:202020&height=180&section=header&text=Bar%C4%B1%C5%9F%20G%C3%BCd%C3%BCl&fontSize=48&fontColor=FFFFFF&animation=fadeIn" alt="header"/>
+</p>
 
-<div align="center">
-  <h2>AI & Data Science Engineer</h2>
-  
-  <a href="https://www.linkedin.com/in/mehmetbarisgudul">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/barisgudul">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:mehmetbarisgudul@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="./Mehmet_Baris_Gudul.pdf">
-    <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
-  </a>
-</div>
+<p align="center">
+  <b>AI Engineer • Data Scientist • Full-Stack Dev • IoT Tinkerer</b>  
+  <i>Turning ideas into production-ready, data-driven products since 2020.</i>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barisgudul&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehmetbarisgudul"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mehmetbarisgudul@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/barisgudul"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="./Mehmet_Baris_Gudul.pdf"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/></a>
+</p>
 
-## 🎯 Professional Profile
+<!--  ============================ WHO AM I?  =============================== -->
+## 🚀 About Me
+- **Final-year Computer Engineer** at Süleyman Demirel University  
+- Passionate about **deep learning**, **mobile AI**, and **edge-ready IoT**  
+- Shipping **production** code in Python + TypeScript, cloud-first mindset  
+- Currently building an **AI Therapy platform** (1 000 + beta users)
 
-Computer Engineering student at Süleyman Demirel University with a passion for AI and data science. Specializing in machine learning, deep learning, and mobile app development. Proven track record in building production-ready AI solutions and data-driven applications.
+<!--  ======================= CORE TECH / TOOLBOX  ========================== -->
+## 🛠️ Tech Stack
 
-### 🏆 Key Achievements
-- 🚀 Developed AI-powered therapy app with 1000+ beta users
-- 🎯 Achieved 92% accuracy in housing price prediction model
-- 💡 Created real-time IoT monitoring system with dual sensor integration
-- 📱 Expert in React Native mobile development with Expo
+| AI / Data                   | Mobile & Web                   | Dev & Cloud             |
+| :-------------------------: | :----------------------------: | :---------------------: |
+| ![TensorFlow](https://img.shields.io/badge/-TensorFlow-ff6f00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-d00000?logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-Sklearn-f7931e?logo=scikit-learn&logoColor=white) | ![React Native](https://img.shields.io/badge/-React_Native-61dafb?logo=react&logoColor=000) ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white) ![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white) ![GCP](https://img.shields.io/badge/-Google_Cloud-4285f4?logo=google-cloud&logoColor=white) |
 
-## 🛠️ Technical Expertise
+<!--  ======================= FEATURED PROJECTS  =========================== -->
+## ✨ Featured Projects
+|                           | Highlights | Stack |
+| ------------------------- | ---------- | ----- |
+| **AI Therapy Assistant**<br>_GPT-4o-powered mental-health app_ | • Real-time voice / video sessions<br>• HIPAA-ready architecture<br>• 92 % user retention | React Native · Expo · Firebase · GPT-4o |
+| **ANN-RealEstate-Regression**<br>_Deep NN for housing prices_ | • 4-layer ANN (MAE $15 617)<br>• Automated feature engineering<br>• Prod pipeline with CI/CD | TensorFlow · Keras · Pandas |
+| **Arduino IoT Monitor**<br>_Edge sensor analytics platform_ | • Dual-sensor fusion<br>• Live Plotly dashboards<br>• Auto-logging & alerting | Python · Arduino · Plotly |
 
-### 🤖 AI & Machine Learning
-<div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</div>
+> 🔗 **Explore all my repos:** [github.com/barisgudul](https://github.com/barisgudul)
 
-### 📱 Mobile & Web Development
-<div align="center">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
+<!--  ========================= GITHUB STATS  ============================== -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=barisgudul&show_icons=true&theme=react&hide_border=true&count_private=true" height="158"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisgudul&theme=react&hide_border=true" height="158"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barisgudul&theme=github_dark" height="158"/>
+</p>
 
-### 🔧 Tools & Platforms
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-</div>
+<!--  ========================= NOW  ============================== -->
+## 🌱 Currently Learning
+- **Diffusion Models** for generative art  
+- **RAG pipelines** with vector DBs  
+- **Low-latency streaming** on React Native (WebRTC)
 
-## 🚀 Featured Projects
+<!--  ========================= CONTACT  ============================== -->
+## 🤝 Let’s Connect
+> *Open to internships, freelance collaborations, and mind-bending AI ideas.*
 
-### 1. AI Therapy Assistant
-<div align="center">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GPT4-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehmetbarisgudul"><img src="https://img.shields.io/badge/Message me on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mehmetbarisgudul@gmail.com"><img src="https://img.shields.io/badge/Say hello-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-> **AI-Powered Mental Health Platform**
-> - Real-time voice and video therapy sessions
-> - GPT-4o powered empathetic responses
-> - HIPAA-compliant architecture
-> - 1000+ beta users with 92% retention
-
-[View Project →](https://github.com/barisgudul/therapy.)
-
-### 2. ANN-RealEstate-Regression
-<div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-</div>
-
-> **Advanced Housing Price Prediction**
-> - 4-layer ANN architecture
-> - MAE: $15,617 | R²: 0.92
-> - Automated feature engineering
-> - Production-ready pipeline
-
-[View Project →](https://github.com/barisgudul/ANN-RealEstate-Regression)
-
-### 3. Arduino IoT Monitor
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-</div>
-
-> **Real-time Sensor Analytics Platform**
-> - Dual temperature sensor integration
-> - Interactive data visualization
-> - Automated data logging
-> - Real-time voltage monitoring
-
-[View Project →](https://github.com/barisgudul/Ardunio_IOT)
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barisgudul&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisgudul&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-## 🌟 Current Focus
-
-- 🔬 Deep Learning Research
-- 📱 Mobile AI Applications
-- 🤖 Computer Vision Projects
-- 📊 Data Science & Analytics
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+<!--  ============================== FOOTER  ============================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:202020,100:0A0A0A&height=120&section=footer"/>
+</p>
