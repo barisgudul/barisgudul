@@ -1,33 +1,83 @@
-# Hi there, I'm Mehmet Barış Güdül 👋
+🚀 About Me
 
-**AI & Mobile App Developer | Data Scientist**
+I’m a Computer Engineer who loves shipping AI solutions that solve real problems.
 
-- 🚀 Passionate about developing AI-powered, user-centric mobile applications
-- 🧠 Skilled in React Native, Python, GPT-4o integration, TensorFlow, and Firebase
-- 📱 Creator of [therapy.](https://github.com/barisgudul/therapy.) – an AI-driven therapy app
-- 🌍 Open to relocate to Dubai / UAE and excited to join innovative tech teams
+🛠️ Track record: 3 production‑ready prototypes, including a GPT‑4o‑powered therapy app with 1 000+ beta users.
 
-## 🏆 Highlight Projects
+🤖 Domains: Computer Vision, LLM prompt‑engineering, Edge AI, IoT telemetry.
 
-- [therapy.](https://github.com/barisgudul/therapy.) — AI-powered mobile therapy app (React Native + GPT-4o)
-- [ai_gym_projects](https://github.com/barisgudul/ai_gym_projects) — Machine learning tutorials & experiments
-- [linkedin-clone](https://github.com/orijinal-sahip/linkedin-clone) — Contributed as a developer to a full-stack LinkedIn clone team project
-- [data-visualization-scripts](https://github.com/barisgudul/data-visualization-scripts) — Visualization tools for data science
+🌍 Goal 2025: launch an AI consultancy helping SMEs unlock data‑driven growth.
 
-## 💼 Experience
+📚 Currently deep‑diving into generative agents & multimodal transformers.
 
-- **AI Trainer** — Outlier
-- **Network Engineer Intern** — Kışladağ Gold Mine (Europe’s largest gold mine)
+🛠️ Core Stack
 
-## 📊 Skills
+Python • TypeScript / JavaScript • React Native • TensorFlow • PyTorch • FastAPI • PostgreSQL • Docker • Arduino / Embedded C
 
-`Python` | `React Native` | `Machine Learning` | `Data Science` | `TensorFlow` | `GPT-4o` | `Mobile Development` | `Firebase` | `Data Visualization`
+🌟 Flagship Projects
 
-## 📫 Let's Connect
+Project
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mehmetbarisgudul)  
-[![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:baris.gudul@gmail.com)
+What it does
 
----
+Key Tech
 
-*Building the next generation of AI-powered apps with a focus on user experience and innovation!*
+Therapy
+
+Mobile app offering text, voice & video sessions with an AI psychologist; beta‑tested by 1 000+ users.
+
+React Native, Expo, GPT‑4o, WebRTC
+
+Ardunio_IOT
+
+Real‑time monitoring of temperature & voltage, live dashboards, automatic alerts.
+
+Arduino, Python, Plotly, FastAPI
+
+SmartMarina
+
+Smart marina automation — device onboarding, telemetry, alerting.
+
+React Native, Expo, FastAPI, MQTT
+
+FurVision
+
+CNN achieving 97 % accuracy in cat vs dog classification.
+
+TensorFlow, OpenCV
+
+ANN‑RealEstate‑Reg
+
+Predicts housing prices (MAE ≤ $3.5 k) using engineered ANN pipeline.
+
+Keras, Pandas
+
+View all repositories on my profile.
+
+📊 GitHub Stats (may take a few seconds to load)
+
+Troubleshooting: If the images below appear blank, GitHub’s proxy may have rate‑limited the stats service. Refresh or try later, or self‑host via github‑readme‑stats.
+
+📚 Latest Content
+
+No public blog posts yet — stay tuned!
+
+“Solving real‑world problems through data, one model at a time.”
+
+📫 Let’s Connect
+
+
+
+
+
+LinkedIn
+
+linkedin.com/in/barisgudul
+
+E‑mail
+
+baris.gudul@example.com
+
+Medium
+
+Coming soon
