@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <b>AI Engineer • Data Scientist • Full-Stack Dev • IoT Tinkerer</b>  
-  <i>Turning ideas into production-ready, data-driven products since 2020.</i>
+  <b>AI Engineer • Mobile App Developer • Data Scientist</b>  
+  <i>Building innovative AI-powered mobile applications and data-driven solutions.</i>
 </p>
 
 <p align="center">
@@ -17,15 +17,15 @@
 
 <!--  ============================ WHO AM I?  =============================== -->
 ## 🚀 About Me
-- **Final-year Computer Engineer** at Süleyman Demirel University  
-- Passionate about **deep learning**, **mobile AI**, and **edge-ready IoT**  
-- Shipping **production** code in Python + TypeScript, cloud-first mindset  
-- Currently building an **AI Therapy platform** (1 000 + beta users)
+- **AI & Mobile App Developer** specializing in innovative solutions
+- Passionate about **deep learning**, **mobile AI**, and **data science**
+- Expert in **React Native**, **Python**, and **AI/ML technologies**
+- Currently building an **AI Therapy platform** (1,000+ beta users)
 
 <!--  ======================= CORE TECH / TOOLBOX  ========================== -->
 ## 🛠️ Tech Stack
 
-| AI / Data                   | Mobile & Web                   | Dev & Cloud             |
+| AI / Data                   | Mobile Development            | Tools & Cloud             |
 | :-------------------------: | :----------------------------: | :---------------------: |
 | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-ff6f00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-d00000?logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-Sklearn-f7931e?logo=scikit-learn&logoColor=white) | ![React Native](https://img.shields.io/badge/-React_Native-61dafb?logo=react&logoColor=000) ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white) ![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white) ![GCP](https://img.shields.io/badge/-Google_Cloud-4285f4?logo=google-cloud&logoColor=white) |
 
@@ -54,7 +54,7 @@
 - **Low-latency streaming** on React Native (WebRTC)
 
 <!--  ========================= CONTACT  ============================== -->
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 > *Open to internships, freelance collaborations, and mind-bending AI ideas.*
 
 <p align="center">
