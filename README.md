@@ -3,7 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0A6BF0&center=true&vCenter=true&width=600&height=100&lines=Barış+Güdül;AI+%26+Data+Science+Engineer" alt="Typing SVG" />
+  <h1>
+    <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="50"/>
+    Barış Güdül
+    <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="50"/>
+  </h1>
+  <h3>AI & Data Science Engineer</h3>
 </div>
 
 <div align="center">
