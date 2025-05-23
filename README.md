@@ -1,10 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Barış%20Güdül&fontSize=80&fontAlignY=35&animation=twinkling&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=55&descAlign=50"/>
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0A6BF0&center=true&vCenter=true&width=600&height=100&lines=Barış+Güdül;AI+%26+Data+Science+Engineer" alt="Typing SVG" />
+</div>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetbarisgudul)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barisgudul)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetbarisgudul@gmail.com)
-  [![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./Mehmet_Baris_Gudul.pdf)
+<div align="center">
+  <a href="https://www.linkedin.com/in/mehmetbarisgudul">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/barisgudul">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:mehmetbarisgudul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="./Mehmet_Baris_Gudul.pdf">
+    <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
+  </a>
 </div>
 
 ## 🎯 Professional Profile
