@@ -1,5 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0A6BF0&center=true&vCenter=true&width=600&height=100&lines=Barış+Güdül;AI+%26+Data+Science+Engineer" alt="Typing SVG" />
+  <img src="https://github-profile-trophy.vercel.app/?username=barisgudul&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0A6BF0&center=true&vCenter=true&width=600&height=100&lines=Barış+Güdül;AI+%26+Data+Science+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,6 +19,10 @@
   <a href="./Mehmet_Baris_Gudul.pdf">
     <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=barisgudul&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 ## 🎯 Professional Profile
