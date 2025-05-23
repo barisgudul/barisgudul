@@ -1,25 +1,8 @@
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=barisgudul&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
-</div>
+# Barış Güdül
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisgudul&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="50"/>
-    Barış Güdül
-    <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="50"/>
-  </h1>
-  <h3>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-    AI & Data Science Engineer
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  </h3>
-</div>
-
-<div align="center">
+  <h2>AI & Data Science Engineer</h2>
+  
   <a href="https://www.linkedin.com/in/mehmetbarisgudul">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
