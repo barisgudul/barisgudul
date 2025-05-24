@@ -18,7 +18,7 @@
 
 <!-- ====================== TOOLBOX ====================== -->
 <details open>
-<summary><b>🛠️  Tech Arsenal</b></summary>
+<summary><b>🛠️  Tech Stack</b></summary>
 
 | AI & Data | Mobile / Web | DevOps & Cloud |
 | :--: | :--: | :--: |
