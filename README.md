@@ -71,14 +71,13 @@
 <br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=barisgudul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" height="170"/>
-  <!-- Alternatif Streak Sayacı -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisgudul&theme=tokyonight&hide_border=true&locale=en" height="170"/>
-  <!-- Orijinal Streak Sayacınız (Eğer herokuapp çalışmazsa veya diğerini tercih ederseniz): -->
-  <!-- <img src="https://streak-stats.demolab.com?user=barisgudul&theme=tokyonight&hide_border=true&locale=en" height="170"/> -->
+  <img src="https://streak-stats.demolab.com/?user=barisgudul&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+<!-- Kaldırılan Not kısmı
 <p align="center">
   <em><b>Not:</b> Streak sayacı, GitHub'daki <b>herkese açık (public)</b> katkılarınıza dayanır. Eğer sayaç görünmüyorsa veya sıfır ise, lütfen son zamanlarda herkese açık bir katkınız olup olmadığını kontrol edin veya farklı bir streak sayacı servisini deneyin.</em>
 </p>
+-->
 </details>
 
 <!-- ====================== NOW / NEXT ====================== -->
