@@ -1,7 +1,7 @@
 <!-- ============================ HERO ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,50:0f49ff,100:56ccf2§ion=header"/>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=38&pause=1000&color=56CCF2¢er=true&vCenter=true&width=1000&height=75&lines=Bar%C4%B1%C5%9F+G%C3%BCd%C3%BCl;AI+%E2%80%A2+Mobile+%E2%80%A2+Data+Science+Engineer;Turning+bold+ideas+into+production" alt="typing">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,50:0f49ff,100:56ccf2&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=38&pause=1000&color=56CCF2&center=true&vCenter=true&width=1000&height=75&lines=Bar%C4%B1%C5%9F+G%C3%Bcd%C3%BCl;AI+%E2%80%A2+Mobile+%E2%80%A2+Data+Science+Engineer;Turning+bold+ideas+into+production" alt="typing">
 </p>
 
 <!-- ====================== SOCIAL LINKS ====================== -->
