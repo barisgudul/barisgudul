@@ -13,7 +13,7 @@
 
 <!-- ====================== QUICK PITCH ====================== -->
 ## ✨ Snapshot
-> **Deep-learning crafter • Mobile-first full-stacker • Data-driven problem-solver**  
+> **Deep-learning crafter • Desktop-first PyQt6 GUI builder • Data-driven problem-solver**  
 > Building edge-ready AI and friction-less user experiences.
 
 <!-- ====================== TOOLBOX ====================== -->
@@ -24,8 +24,10 @@
   <table>
     <tr>
       <td align="center"><b>AI & Data</b></td>
-      <td align="center"><b>Mobile / Web</b></td>
-      <td align="center"><b>DevOps & Cloud</b></td>
+      <td align="center"><b>Desktop GUI</b></td>
+      <td align="center"><b>Mobile</b></td>
+      <td align="center"><b>Web & Backend</b></td>
+      <td align="center"><b>DevOps & Tools</b></td>
     </tr>
     <tr>
       <td align="center">
@@ -39,14 +41,32 @@
         <img src="https://img.shields.io/badge/Pingouin-302683?style=for-the-badge&logo=python&logoColor=white"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/React_Native-61dafb?style=for-the-badge&logo=react&logoColor=000"/>
-        <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyQt6-41cd52?style=for-the-badge&logo=qt&logoColor=white&labelColor=000"/>
+        <img src="https://img.shields.io/badge/Qt%20Designer-41cd52?style=for-the-badge&logo=qt&logoColor=white&labelColor=000"/>
+        <img src="https://img.shields.io/badge/PyInstaller-000000?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Windows%20%7C%20macOS%20%7C%20Linux-333?style=for-the-badge&logo=windows&logoColor=white"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+        <!-- TS & JS hem mobil hem web -->
+        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+        <img src="https://img.shields.io/badge/React%20Native-61dafb?style=for-the-badge&logo=react&logoColor=000"/>
+        <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+      </td>
+      <td align="center">
+        <!-- TS & JS hem mobil hem web -->
+        <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=000"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+        <!-- İstendiği gibi: SQL/Supabase/AWS yer almıyor -->
+      </td>
+      <td align="center">
         <img src="https://img.shields.io/badge/GCP-4285f4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
         <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
       </td>
     </tr>
   </table>
@@ -58,11 +78,16 @@
 <summary><b>🚀  Signature Projects</b></summary>
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barisgudul&repo=Ardunio_IOT&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barisgudul&repo=ANN-RealEstate-Regression&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barisgudul&repo=therapy.&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/barisgudul/Jeweler-ERP-system-GUI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=barisgudul&repo=Jeweler-ERP-system-GUI&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/barisgudul/ANN-RealEstate-Regression">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=barisgudul&repo=ANN-RealEstate-Regression&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/barisgudul/therapy.">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=barisgudul&repo=therapy.&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
-
 </details>
 
 <!-- ====================== GITHUB ANALYTICS ====================== -->
@@ -88,7 +113,7 @@
 
 <!-- ====================== CONNECT ====================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=56CCF2¢er=true&vCenter=true&width=800&height=50&lines=Got+a+vision%3F+Let's+code+it+together!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=56CCF2&center=true&vCenter=true&width=800&height=50&lines=Got+a+vision%3F+Let's+code+it+together!" />
 </p>
 
 <p align="center">
@@ -98,5 +123,5 @@
 
 <!-- ============================ FOOTER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=56ccf2&height=160§ion=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=56ccf2&height=160&section=footer"/>
 </p>
