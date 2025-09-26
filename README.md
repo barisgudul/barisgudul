@@ -64,9 +64,11 @@
         <!-- İstendiği gibi: SQL/Supabase/AWS yer almıyor -->
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/GCP-4285f4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GCP-4285f4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
       </td>
     </tr>
   </table>
