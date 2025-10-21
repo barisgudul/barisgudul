@@ -31,6 +31,7 @@
     </tr>
     <tr>
       <td align="center">
+        <img src="https://img.shields.io/badge/LangChain-434354?style=for-the-badge&logo=langchain&logoColor=white"/>
         <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scikit--learn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
