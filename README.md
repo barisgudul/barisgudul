@@ -81,14 +81,14 @@
 <summary><b>🚀  Signature Projects</b></summary>
 <br/>
 <p align="center">
-  <a href="https://github.com/barisgudul/Jeweler-ERP-system-GUI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=barisgudul&repo=Jeweler-ERP-system-GUI&theme=tokyonight&hide_border=true"/>
-  </a>
   <a href="https://github.com/barisgudul/ANN-RealEstate-Regression">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=barisgudul&repo=ANN-RealEstate-Regression&theme=tokyonight&hide_border=true"/>
   </a>
-  <a href="https://github.com/barisgudul/therapy.">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=barisgudul&repo=therapy.&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/barisgudul/AI-Committee">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=barisgudul&repo=AI-Committee&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/barisgudul/Jeweler-ERP-system-GUI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=barisgudul&repo=Jeweler-ERP-system-GUI&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 </details>
